@@ -8,6 +8,7 @@
 ![L1m4z1n GitHub stats](https://github-readme-stats.vercel.app/api?username=L1m4z1n&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L1m4z1n&layout=donut-vertical)](https://github.com/L1m4z1n/github-readme-stats)
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
