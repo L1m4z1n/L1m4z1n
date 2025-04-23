@@ -30,4 +30,4 @@
  ## Informações para contato:
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.gabrielimalmeida@gmail.com): dev.gabrielimalmeida@gmail.com
  
- [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/Ya7eW3): (61) 99816-4471
+ [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://w.app/Ya7eW3](https://wa.me/5561998164471?text=Ol%C3%A1%2C%20tudo%20bem%3F)): (61) 99816-4471
