@@ -28,6 +28,6 @@
  Um jovem desbravando o mundo da tecnologia e seus desafios impostos.
 
  ## Informações para contato:
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielimalmeida@gmail.com): gabrielimalmeida@gmail.com
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.gabrielimalmeida@gmail.com): dev.gabrielimalmeida@gmail.com
  
- [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/Ya7eW3): (61) 9179-9719
+ [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/Ya7eW3): (61) 99816-4471
